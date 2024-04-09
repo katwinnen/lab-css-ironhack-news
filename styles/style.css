@@ -242,3 +242,15 @@ header {
   width: 100%;
 }
 }
+
+/* Bonus */
+@media (max-width:480px){
+  .navbar {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+    }
+}
+
+  
